@@ -11,9 +11,13 @@ Project Details
 -----------
 How to Play
 Jump: Space
+
 Speed: Shift
+
 Good Ending : 40% or more HP
+
 Bad Ending: less than 40% HP.
+
 -----------
 License
 This project is licensed under the MIT License.
