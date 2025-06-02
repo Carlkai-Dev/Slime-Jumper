@@ -4,10 +4,10 @@ I worked on this 3D board-style adventure game, where players roll a dice to mov
 Gameplay Features
 -------------------
 Project Details
-🧑‍⚕️ Role: Solo Developer (Carlos Rondon)
-🛠️ Engine: Unity 
-⏱️ Development Time: 3 months
-🎯 Focus Areas: Gameplay systems, player feedback, Level Design.
+ Role: Solo Developer (Carlos Rondon)
+ Engine: Unity 
+ Development Time: 3 months
+ Focus Areas: Gameplay systems, player feedback, Level Design.
 -----------
 How to Play
 Jump: Space
