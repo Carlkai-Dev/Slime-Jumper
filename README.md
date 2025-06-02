@@ -9,7 +9,7 @@ Project Details
  
  Engine: Unity 
  
- Development Time: 3 months
+ Development Time: 4 months
  
  Focus Areas: Gameplay systems, player feedback, Level Design.
  
